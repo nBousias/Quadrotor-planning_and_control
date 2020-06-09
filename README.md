@@ -1,5 +1,5 @@
 ___________________________________
-Quadrotor-control/planning
+#Quadrotor-control/planning
 ___________________________________
 
 Simulation of quadrotor safely navigating through a complex environment with obstacles to reach a target. Implementing non-linear geometric tracking controller and A* algorithm (L_2 heuristic). Results validated in lab with a Crazyflie 2.0 quadrotor and Vicon (video available).
