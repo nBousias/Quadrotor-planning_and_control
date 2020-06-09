@@ -1,0 +1,31 @@
+import numpy as np
+
+def coef(x0,x1,t0,t1):
+    # dt=t1-t0
+    # H=np.array([[720*T**5, 360*T**4, 120*T**3],
+    #             [360*T**4, 192*T**3, 72*T**2],
+    #             [120*T**3, 72*T**2 , 36*T]])
+
+    L=np.linalg.inv(np.array([[t0**5, t0**4, t0**3, t0**2, t0, 1],
+                              [5*t0**4, 4*t0**3, 3*t0**2, 2*t0, 1, 0],
+                              [20*t0**3, 12*t0**2, 6*t0, 2, 0, 0],
+                              [t1 ** 5, t1 ** 4, t1 ** 3, t1 ** 2, t1, 1],
+                              [5 * t1 ** 4, 4 * t1 ** 3, 3 * t1 ** 2, 2 * t1, 1, 0],
+                              [20 * t1 ** 3, 12 * t1 ** 2, 6 * t1, 2, 0, 0]]))
+
+    coefficients = L @ np.array([x0, 0, 0, x1, 0, 0]).T
+
+    return coefficients
+
+
+def min_jerk(points,t):
+
+    N=t.shape[0]
+
+    c=np.zeros((N-1,6,1))
+    for i in range(N-1):
+        c[i, :, 0]  = coef(points[i, 0], points[i + 1, 0], t[i], t[i + 1])
+        c[i, :, 1] = coef(points[i, 1], points[i + 1, 1], t[i], t[i + 1])
+        c[i, :, 2] = coef(points[i, 2], points[i + 1, 2], t[i], t[i + 1])
+
+    return c

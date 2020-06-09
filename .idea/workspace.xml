@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dd9dcab-6b94-4b76-aeb0-f6d704f66a31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YLoa5XfHQ3JNo2zc3mB8ZOmVGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nbous\PycharmProjects\MEAM_620_project_1_3\proj1_3\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nbous\PycharmProjects\MEAM_620_project_1_3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sandbox_lab" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MEAM_620_project_1_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\nbous\PycharmProjects\MEAM_620_project_1_3\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab/sandbox_lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dd9dcab-6b94-4b76-aeb0-f6d704f66a31" name="Default Changelist" comment="" />
+      <created>1582731296098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582731296098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="287" y="179" width="819" height="382" key="#Notifications" timestamp="1591700105454">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="287" y="179" width="819" height="382" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1591700105454" />
+    <state x="414" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585665664605">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585665664605" />
+    <state x="722" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585505034861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="722" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585505034861" />
+    <state x="781" y="316" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591646316100">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585665663590" />
+    <state x="781" y="316" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1591646316100" />
+    <state x="660" y="285" key="Github.ShareDialog" timestamp="1591701122318">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="202" y="258" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1591700089816" />
+    <state x="660" y="285" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591701122318" />
+    <state x="333" y="83" width="757" height="626" key="Github.UntrackedFilesDialog" timestamp="1591483629347">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="333" y="83" width="757" height="626" key="Github.UntrackedFilesDialog/67.27.1299.741@67.27.1299.741" timestamp="1591483629347" />
+    <state width="1899" height="329" key="GridCell.Tab.0.bottom" timestamp="1585669567198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="200" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1583640671528" />
+    <state width="1899" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585669567198" />
+    <state width="1899" height="329" key="GridCell.Tab.0.center" timestamp="1585669567198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="200" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1583640671527" />
+    <state width="1899" height="329" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585669567198" />
+    <state width="1899" height="329" key="GridCell.Tab.0.left" timestamp="1585669567198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="200" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1583640671526" />
+    <state width="1899" height="329" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585669567198" />
+    <state width="1899" height="329" key="GridCell.Tab.0.right" timestamp="1585669567198">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="200" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1583640671527" />
+    <state width="1899" height="329" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585669567198" />
+    <state x="128" y="27" key="SettingsEditor" timestamp="1591699758740">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585508236344" />
+    <state x="128" y="27" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1591699758740" />
+    <state x="512" y="205" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1591646693622" />
+    <state x="415" y="176" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1591646396236">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1591483234156" />
+    <state x="415" y="176" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1591646396236" />
+    <state x="437" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1588921035246">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="437" y="243" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1588921035246" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585675430940" />
+    <state x="459" y="113" width="504" height="566" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1591483030656">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="459" y="113" width="504" height="566" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/67.27.1299.741@67.27.1299.741" timestamp="1591483030656" />
+    <state x="666" y="431" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591646547596">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="487" y="311" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1591483021902" />
+    <state x="666" y="431" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1591646547596" />
+    <state x="736" y="415" key="git4idea.rebase.GitRebaseDialog" timestamp="1591646431412">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="736" y="415" key="git4idea.rebase.GitRebaseDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591646431412" />
+    <state x="521" y="308" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591483219363">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="521" y="308" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog/67.27.1299.741@67.27.1299.741" timestamp="1591483219363" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1585567273957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585567273957" />
+  </component>
+</project>
